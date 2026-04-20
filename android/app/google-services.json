@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "696648593173",
+    "firebase_url": "https://comp1786expensetracker-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "comp1786expensetracker",
+    "storage_bucket": "comp1786expensetracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696648593173:android:78401429d9bce0f36e431c",
+        "android_client_info": {
+          "package_name": "com.example.user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9wxa7h6nF_M_Ybxtw9iwKn06Yf5X-HH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696648593173:android:c9109994b9cc583d6e431c",
+        "android_client_info": {
+          "package_name": "com.vinh.comp1786"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9wxa7h6nF_M_Ybxtw9iwKn06Yf5X-HH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
